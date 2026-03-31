@@ -2,6 +2,7 @@
 This project showcases a structured approach to exploratory data analysis (EDA) using Microsoft SQL Server, combining strong querying fundamentals with analytical thinking rooted in real-world financial and business contexts.
  Data Exploration with Microsoft SQL Server
 This project showcases a structured approach to exploratory data analysis (EDA) using Microsoft SQL Server, combining strong querying fundamentals with analytical thinking rooted in real-world financial and business contexts.
+
 🔍 What This Project Covers
 The exploration focuses on uncovering patterns, anomalies, and insights hidden within relational datasets using pure SQL. Techniques applied include:
 
